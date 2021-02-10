@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![screenshot](https://github.com/sbis04/events_demo/raw/master/screenshot/event.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -1,6 +1,6 @@
 # gmeet_event_flutter
 
-A new Flutter application.
+Atur jadwal acara acara daring mu dengan aplikasi ini
 
 ![screenshot](https://github.com/sbis04/events_demo/raw/master/screenshot/event.gif)
 
